@@ -1,7 +1,7 @@
 # Lecture Plan
 
 | Week | Month | Wednesday (14:15 - 16:00) | Thursday (14:15 - 16:00) | Comment      |
-| ---- | ----- | ------------------------- | ------------------------ | ------------ |
+|:----:|:-----:| ------------------------- | ------------------------ | ------------ |
 | 2    | Jan   | Course Introduction       | Ch 1 Introduction        |              |
 | 3    | Jan   | Live coding: Go / gRPC    | Ch 2 Basic Abstractions  | Bring laptop |
 | 4    | Jan   | Live coding: Gorums       | Ch 2 Basic Abstractions  | Bring laptop |
@@ -14,9 +14,6 @@
 | 11   | Mar   | Consistent Global States  | Consistent Global States |              |
 | 12   | Mar   | Guest Lecture             |                          |              |
 | 13   | Mar   | No Lecture (Only Lab)     | No Lecture (Only Lab)    |              |
-| 14   | Apr   | No Lecture (Only Lab)     | No Lecture (Only Lab)    |              |
-| 15   | Apr   | No Lecture (Only Lab)     | No Lecture (Only Lab)    |              |
-| 16   | Apr   | No Lecture (Only Lab)     | No Lecture (Only Lab)    | Easter       |
-| 17   | Apr   | No Lecture (Only Lab)     | No Lecture (Only Lab)    |              |
-| 18   | May   | No Lecture (Only Lab)     | No Lecture (Only Lab)    |              |
+| &#124; | Apr   |       |     |              |
+| 18   | Apr   | No Lecture (Only Lab)     | No Lecture (Only Lab)    |              |
 | 22   | Jun   | Written exam: TBD         |                          |              |
