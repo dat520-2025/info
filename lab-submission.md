@@ -87,7 +87,7 @@ Note that the videos were recorded in a previous semester, and some details may 
 
 4. Next, you will need to add the course's `assignments` repository as a remote repository.
 
-   ```console
+   ```shell
    $ cd assignments
    # Check that you have the correct remote for your own repository
    $ git remote -v
