@@ -90,7 +90,7 @@ If you prefer to work alone, you can skip this section.
    A Discord account is necessary to communicate with the teaching staff during lab hours.
    You can skip this step if you already have an account.
 
-2. To join the course Discord server, navigate [here](https://discord.gg/9RAXztAY).
+2. To join the course Discord server, navigate [here](https://discord.gg/9m2UztvyPW).
 
 3. Once connected to the server, please register with our bot, `@dat520-helpbot`, by sending it a direct message or by sending the command in the `#general` channel:
 
