@@ -88,9 +88,23 @@ Note that the videos were recorded in a previous semester, and some details may 
 4. Next, you will need to add the course's `assignments` repository as a remote repository.
 
    ```console
-   cd assignments
-   git remote add course-assignments git@github.com:dat520-2025/assignments
-   git pull course-assignments main
+   $ cd assignments
+   # Check that you have the correct remote for your own repository
+   $ git remote -v
+   origin https://github.com/dat520-2025/username-labs.git (fetch)
+   origin https://github.com/dat520-2025/username-labs.git (push)
+   # Add the course's assignments repository as a remote
+   $ git remote add course-assignments https://github.com/dat520-2025/assignments
+   # Check that you have the correct remote for your own repository
+   $ git remote -v
+   course-assignments https://github.com/dat520-2025/assignments (fetch)
+   course-assignments https://github.com/dat520-2025/assignments (push)
+   origin https://github.com/dat520-2025/username-labs.git (fetch)
+   origin https://github.com/dat520-2025/username-labs.git (push)
+   # Pull in the latest changes from the course's assignments repository
+   $ git pull course-assignments main
+   # Push the changes to your own repository (default is origin)
+   $ git push
    ```
 
    This will allow you to pull in updates from the `assignments` repository, as we publish them.
