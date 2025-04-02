@@ -7,7 +7,8 @@
 | 3 | [Failure Detector and Leader Election][3] | Pass/fail | TA Approval | Group | February 20 |
 | 4 | [Single-decree Paxos and Multi-Paxos][4] | Pass/fail | TA Approval | Group | March 6 |
 | 5 | [Multi-Paxos with Gorums and Performance Evaluation][5] | Pass/fail | TA Approval | Group | March 27 |
-| 6 | [Bank Application with Reconfiguration][6] | Pass/fail | TA Approval | Group | April 25 |
+| 6 | [Replicated Bank Application][6] | Pass/fail | TA Approval | Group | April 25 |
+| 7 | [Paxos Reconfiguration][7] | Pass/fail | TA Approval | Group | April 25 |
 
 [1]: https://github.com/dat520-2025/assignments/tree/main/lab1
 [2]: https://github.com/dat520-2025/assignments/tree/main/lab2
@@ -15,3 +16,4 @@
 [4]: https://github.com/dat520-2025/assignments/tree/main/lab4
 [5]: https://github.com/dat520-2025/assignments/tree/main/lab5
 [6]: https://github.com/dat520-2025/assignments/tree/main/lab6
+[7]: https://github.com/dat520-2025/assignments/tree/main/lab7
